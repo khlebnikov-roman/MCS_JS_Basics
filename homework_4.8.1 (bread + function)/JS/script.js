@@ -11,6 +11,9 @@ function haveEnough (money, buyApple, buyBread, costApple, costBread, result) {
     } else {
         alert('Вам не хватает денег');
     }
+
 }
+
+haveEnough();
 
 
