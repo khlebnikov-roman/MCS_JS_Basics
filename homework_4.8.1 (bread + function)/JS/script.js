@@ -15,5 +15,3 @@ function haveEnough (money, buyApple, buyBread, costApple, costBread, result) {
 }
 
 haveEnough();
-
-
